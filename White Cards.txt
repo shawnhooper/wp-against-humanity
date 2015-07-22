@@ -1,2 +1,5 @@
 The Loop
 White Screen of Death
+The WordPress Way
+WP_Query
+Hacking the core
