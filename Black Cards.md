@@ -12,7 +12,7 @@ I can't really remember what happened at the after party last night but I do hav
 
 Turns out there's actually _____ under Pippin's hat.
 
-It's official. _____ is now banned at all WordCamps. Thanks _____.
+It's official. _____ is now banned at all WordCamps.
 
 The WordPress.org plugin review team is getting tired of rejecting plugins because they include _____.
 
@@ -23,3 +23,5 @@ This week's episode of the DradCast will feature surprise guest: _____.
 _____'s GoFundMe campaign for _____ seems to really be gaining some traction.
 
 I can't believe my pull request to include _____ in WooCommerce was denied.
+
+Top 10 _____ plugins for WordPress
