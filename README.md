@@ -1,3 +1,5 @@
+![alt text](https://github.com/philhoyt/wp-against-humanity/blob/master/cah-example.jpg "Card Example")
+
 wp-against-humanity
 =======================
 
