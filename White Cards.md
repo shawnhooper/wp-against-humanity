@@ -11,3 +11,13 @@ Making a Core Contribution
 The Codex
 
 Matt Mullenweg
+
+Plugin
+
+Dashboards
+
+Widget
+
+Open Source
+
+GPL
