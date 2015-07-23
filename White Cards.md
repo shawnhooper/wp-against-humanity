@@ -24,8 +24,6 @@ GPL
 
 Thesis
 
-Chris Pearson
-
 Andrew Nacin
 
 WooCommerce
