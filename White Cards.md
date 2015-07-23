@@ -21,3 +21,19 @@ Widget
 Open Source
 
 GPL
+
+Thesis
+
+Chris Pearson
+
+Andrew Nacin
+
+WooCommerce
+
+The Customizer
+
+Chris Lema
+
+WordCamp
+
+After Party
