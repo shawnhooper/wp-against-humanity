@@ -37,3 +37,9 @@ Chris Lema
 WordCamp
 
 After Party
+
+Automatic Updates
+
+Wapuu
+
+Backward Compatability
